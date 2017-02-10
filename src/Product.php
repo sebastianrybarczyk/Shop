@@ -18,7 +18,7 @@ class Product
         $this->id=NULL;
         $this->price=$price;
         $this->name=$name;
-        $this->quantity=$quantity;
+        $this->availability=$availability;
         
         
     }
